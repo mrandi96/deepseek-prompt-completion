@@ -8,16 +8,9 @@ Welcome to the DeepSeek Prompt Completion repository! This project provides tool
     Examples: Includes sample scripts and use cases to get you started.
     Lightweight: Easy to set up and integrate into your projects.
 
-## Installation
-
-  Clone the repository:
-  
-    git clone https://github.com/mrandi96/deepseek-prompt-completion.git
-    cd deepseek-prompt-completion
-
 ## Usage
 
-Open the project to your google collab, run all the steps and then play around by providing the prompt to autocomplete or click the generated gradio link to open it in new tab.
+Open deepseek.ipynb and then click "Open in Colab". This will open the project to my google colab. You can copy the link to your own google colab project or just run it there. Make sure the hosted runtime is set to T4 or any other GPU runtime available. After you click the Runtime -> Run All, it will generate gradio interface for you to play around. You also can click the generated gradio link to open at your browser new tab.
 
 Example input:
 
