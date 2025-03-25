@@ -45,4 +45,4 @@ License
 This project is licensed under the MIT License. See  for details.
 Contact
 
-Have questions? Open an issue or reach out at your-email@example.com.
+Have questions? Open an issue or reach out at mrandi96@gmail.com.
